@@ -64,10 +64,10 @@ legal:
     url:               /LICENSE/
   - title:             NOTICE
     url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
-  - title:             TEST
-    url:               /TEST/
+#  - title:             CHANGELOG
+#    url:               /CHANGELOG/
+#  - title:             TEST
+#    url:               /TEST/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2021. All rights reserved.
@@ -273,7 +273,7 @@ hydejack:
     always:            true
 
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
-    dynamic:           true
+    dynamic:           false
 
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
