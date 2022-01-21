@@ -1,10 +1,15 @@
-# Licenses
+# Circular Dichroism 
 
-## Open Source
-* [Apache-2.0](./Apache-2.0.md)
-* [GPL-3.0](./GPL-3.0.md)
-* [MIT](./MIT.md)
-* [W3C-20150513](./W3C-20150513.md)
+Version 2.0, January 2004
 
-## Custom
-* [PRO](./PRO.md)
+<http://www.apache.org/licenses/>
+
+## TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+### 1. Definitions
+
+180/pi=1 rad
+57295,8 mdeg/rad
+
+GIF O DIBUJOS ANGULO ENERGIA ELECTROMAGNETICA
+
+tantita=C1/C2=
