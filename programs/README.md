@@ -3,7 +3,7 @@
 January 2022
 
 
-## TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+## Phisical Behaviour 
 ### 1. Definitions
 
 180/pi=1 rad
@@ -12,3 +12,11 @@ January 2022
 GIF O DIBUJOS ANGULO ENERGIA ELECTROMAGNETICA
 
 tantita=C1/C2=
+\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
+
+
+## Molar Elipticity
+
+
+
+## Kuhn's Dissymetry Factor/Anisotropy Factor 
