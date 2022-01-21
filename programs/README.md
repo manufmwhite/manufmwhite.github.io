@@ -13,6 +13,7 @@ GIF O DIBUJOS ANGULO ENERGIA ELECTROMAGNETICA
 
 tantita=C1/C2=
 \zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
+$h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$
 
 
 ## Molar Elipticity
