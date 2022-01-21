@@ -1,8 +1,7 @@
-# Circular Dichroism 
+# Circular Dichroism (Dicroísmo circular)
 
-Version 2.0, January 2004
+January 2022
 
-<http://www.apache.org/licenses/>
 
 ## TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 ### 1. Definitions
